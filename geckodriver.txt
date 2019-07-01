@@ -1,0 +1,78 @@
+1554388591317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pHGY6jJ3nKt4"
+1554388592269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554388592269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554388592270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554388596292	Marionette	INFO	Listening on port 36136
+1554388596402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554388604913	Marionette	INFO	Stopped listening on port 36136
+1554388644486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OHYbMbB2xoO2"
+1554388645329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554388645329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554388645330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554388649952	Marionette	INFO	Listening on port 35800
+1554388650102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.iplocation.net/themes/backend/vendor/summernote/js/summernote-lite.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.iplocation.net/themes/frontend/js/custom.js?version=1, line 53: TypeError: $(...).summernote is not a function
+JavaScript error: https://cdn.tynt.com/siab.js, line 13: SecurityError: Permission denied to access property "search" on cross-origin object
+JavaScript error: https://cdn.tynt.com/siab.js, line 13: SecurityError: Permission denied to access property "search" on cross-origin object
+JavaScript error: https://cdn.tynt.com/siab.js, line 13: SecurityError: Permission denied to access property "search" on cross-origin object
+JavaScript error: https://cdn.tynt.com/siab.js, line 13: SecurityError: Permission denied to access property "search" on cross-origin object
+[Parent 4443, Gecko_IOThread] WARNING: pipe error (116): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1554388677812	Marionette	INFO	Stopped listening on port 35800
+1554388921480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Nnk2nqe9HL2g"
+1554388922275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554388922275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554388922275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554388926739	Marionette	INFO	Listening on port 41379
+1554388926880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554388931303	Marionette	INFO	Stopped listening on port 41379
+1554388944206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.K1p5JdZjelRH"
+1554388945256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554388945257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554388945257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554388949475	Marionette	INFO	Listening on port 45562
+1554388949654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.iplocation.net/themes/backend/vendor/summernote/js/summernote-lite.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.iplocation.net/themes/frontend/js/custom.js?version=1, line 53: TypeError: $(...).summernote is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1554388961467	Marionette	INFO	Stopped listening on port 45562
+1554389224161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v8V1wy5lAJZt"
+1554389225057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554389225058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554389225058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554389229286	Marionette	INFO	Listening on port 37634
+1554389229525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.iplocation.net/themes/backend/vendor/summernote/js/summernote-lite.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.iplocation.net/themes/frontend/js/custom.js?version=1, line 53: TypeError: $(...).summernote is not a function
+1554389359671	Marionette	INFO	Stopped listening on port 37634
+1554389361536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fCzZETVzShTb"
+1554389362397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554389362397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554389362398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554389366685	Marionette	INFO	Listening on port 33000
+1554389366774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.iplocation.net/themes/backend/vendor/summernote/js/summernote-lite.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.iplocation.net/themes/frontend/js/custom.js?version=1, line 53: TypeError: $(...).summernote is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1554389427989	Marionette	INFO	Stopped listening on port 33000
